@@ -1,66 +1,29 @@
-body
+#nome
 {
-    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 0;
-}
-.menu-1
-{
-    background-color: #808080;
-    height: 60px;
-}
-.menu-1 ul
-{
-    padding: 16px 0 0 0;
-    height: 44px;
-    margin: 0;
-}
-.menu-1 ul li
-{
-    padding-left: 50px;
-    display: inline;
-}
-.menu-1 ul li a
-{
-    color: #000000;
-}
-.containerbanner
-{
-    border-bottom: 2px solid black;
-    margin: 10px 0 0 0;
-    padding: 0;
-    height: 160px;
-}
-#fotoroberto
-{
-    width: 130px;
-    margin-top: 0px;
-    margin-left: 225px;
-    float: left;
-}
-#intro-text1
-{
-    margin-left: 750px;
-    font-size: 24px;
+    color: white;
     padding-top: 15px;
-    margin-top: 0;
+    font-size: 25px;
+    padding-bottom: 0;
     margin-bottom: 0;
 }
-#intro-text2
+#sobre
 {
-    margin-left: 750px;
-    font-size: 26px;
-    margin-top: 2px;
+    color: white;
+    font-size: 18px;
+    padding-top: 0px;
+    margin-top: 10px;
+}
+#profissao
+{
+    color: white;
+    font-size: 18px;
     margin-bottom: 0;
 }
-#intro-text3
+#minhafoto
 {
-    margin-left: 750px;
-    font-size: 21px;
-    margin-top: 2px;
-}
-p
-{
-    text-align: center;
+    width: 150px;
+    height: 150px;
+    background-color: #000;
+    color: #FFF;
+    border-radius: 50%;
 }
